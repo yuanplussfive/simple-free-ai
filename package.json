@@ -1,0 +1,19 @@
+{
+  "name": "free-simple-ai",
+  "version": "1.0.0",
+  "description": "free api",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.18.2",
+    "express-rate-limit": "^7.1.5",
+    "mongodb": "^6.3.0",
+    "node-fetch": "^3.3.2",
+    "node-schedule": "^2.1.1",
+    "pm2": "^5.3.1",
+    "request": "^2.88.2"
+  }
+}
